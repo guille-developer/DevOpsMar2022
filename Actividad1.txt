@@ -1,5 +1,7 @@
 Miembros del equipo:Andres Gutierrez, Tomas Fernandez, y Guillermo Rodriguez
 Administrador de Git: Guillermo Rodriguez
+Link Gits:
 
+Guillermo Rodriguez:https://github.com/guillermo-rodriguez-dev
 
 
